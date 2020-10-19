@@ -1,0 +1,60 @@
+{
+    "wallet": {
+        "ltc": "MBDvLP8ktehJGyzKXBFmoXzZQ6WCWY8oVL",
+        "doge": "DPCi1XqBW2HsBB2zRNV6PmQDi3Ltv8Tbuv",
+        "zec": "t1bdWMM4xb9CjPqWtQ1xwEpLXKS4A1DZ5ee",
+        "bch": "qzqxp0fwc3q78asmu4muy0x76l06zntd6ucyv03v4r",
+        "btc": "3L4JBYLr2Pk3Pz31d4GcuwhjinikeV6HHt"
+    },
+    "referral": {
+        "mode": "on",
+        "ref_5bot": "on",
+        "ref_ltc": "HDSH",
+        "ref_doge": "bqcw",
+        "ref_zec": "ulnV",
+        "ref_bch": "Rt6B",
+        "ref_btc": "NAIT"
+    },
+    "akun_utama": {
+        "mode_nuyul": "off",
+        "number": "+6285390103789",
+        "change_api": "off",
+        "leave": "off",
+        "msg_bot":"off",
+        "join":"off",
+        "visit":"off"
+    },
+    "setting": {
+        "auto_change_api":"off",
+        "allow_NSFW": "on",
+        "auto_switch_mode": "off",
+        "delete_history":"off",
+        "banyak_msg_bot":50,
+        "banyak_join":50,
+        "banyak_visit":300
+    },
+    "fitur": {
+        "grup_tuyul": {
+            "mode": "on",
+            "chat_balance": "on",
+            "group": "@pasukanalvin",
+            "chat": ["Hai..","absen","good😃","tron"," hehehehe","very nice","hi all","😊😊😊😊😊","nice","Thanks gan"]
+        }, 
+        "proxy": {
+            "proxy": "on",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "leave": {
+            "leave": "on",
+            "usia_channel_leave":7
+        },
+        "mode":{
+            "msg":"on",
+            "join":"on",
+            "visit":"on",
+            "auto_wd":"on"
+        }
+    }
+}
